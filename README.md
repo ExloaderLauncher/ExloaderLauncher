@@ -36,7 +36,7 @@ ExLoader распространяется бесплатно. Разработч
 Соглашение https://exloader.net/end_user_license_agreement/#/
 
 ## 💬 Контакты
-- 🌐 [Официальный сайт на GITHUB] (https://github.com/ExloaderLauncher/ExloaderLauncher/releases/tag/ExLoader)
+- 🌐 [Официальный сайт на GITHUB] (https://github.com/ExloaderLauncher/ExloaderLauncher/tree/main)
 - 📢 [Дискорд](https://discord.gg/exloader)
 - 📨 Поддержка: support@exloader.net
 
