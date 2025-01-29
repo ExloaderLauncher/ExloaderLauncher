@@ -20,7 +20,7 @@
  ![vID1KMpf5f8K5VmzWThR8wFslfOe2Iz7m6x_n-QOcxAaz8OG_sD3aH5W5U_gICS8Fb2CFqKCtNCC8KbTv_2SL5rJ](https://github.com/user-attachments/assets/90b85980-43b5-4d78-95df-5dcc9f34fb9e)
 
 ## 🏁 Сыллка на скачивание
-https://github.com/ExloaderLauncher/ExloaderLauncher/releases/tag/ExLoader
+[Установить]https://github.com/ExloaderLauncher/ExloaderLauncher/releases/tag/ExLoader
 
 ## 📥 Установка
 1. Загрузите последнюю версию ExLoader с [официального гитхаб сайта](https://github.com/ExloaderLauncher/ExloaderLauncher/releases/tag/ExLoader).
@@ -36,7 +36,7 @@ ExLoader распространяется бесплатно. Разработч
 Соглашение https://exloader.net/end_user_license_agreement/#/
 
 ## 💬 Контакты
-- 🌐 [Официальный сайт на GITHUB] (https://github.com/ExloaderLauncher/ExloaderLauncher/tree/main)
+- 🌐 [Официальный сайт на GITHUB](https://github.com/ExloaderLauncher/ExloaderLauncher/tree/main)
 - 📢 [Дискорд](https://discord.gg/exloader)
 - 📨 Поддержка: support@exloader.net
 
