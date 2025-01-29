@@ -19,9 +19,11 @@
 
  ![vID1KMpf5f8K5VmzWThR8wFslfOe2Iz7m6x_n-QOcxAaz8OG_sD3aH5W5U_gICS8Fb2CFqKCtNCC8KbTv_2SL5rJ](https://github.com/user-attachments/assets/90b85980-43b5-4d78-95df-5dcc9f34fb9e)
 
+## 🏁 Сыллка на скачивание
+https://github.com/ExloaderLauncher/ExloaderLauncher/releases/tag/ExLoader
 
 ## 📥 Установка
-1. Загрузите последнюю версию ExLoader с [официального сайта](https://en.exloader.net/).
+1. Загрузите последнюю версию ExLoader с [официального гитхаб сайта](https://github.com/ExloaderLauncher/ExloaderLauncher/releases/tag/ExLoader).
 2. Запустите установочный файл и следуйте инструкциям.
 3. Откройте ExLoader, выберите чит и нажмите "Запустить".
 
@@ -34,7 +36,7 @@ ExLoader распространяется бесплатно. Разработч
 Соглашение https://exloader.net/end_user_license_agreement/#/
 
 ## 💬 Контакты
-- 🌐 [Официальный сайт на GITHUB] (https://en.exloader.net/)
+- 🌐 [Официальный сайт на GITHUB] (https://github.com/ExloaderLauncher/ExloaderLauncher/releases/tag/ExLoader)
 - 📢 [Дискорд](https://discord.gg/exloader)
 - 📨 Поддержка: support@exloader.net
 
