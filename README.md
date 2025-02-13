@@ -23,7 +23,7 @@
 - [Установить](https://github.com/ExloaderLauncher/ExloaderLauncher/releases/tag/ExLoader)
 
 ## 📥 Установка
-1. Загрузите последнюю версию ExLoader с [официального гитхаб сайта](https://github.com/ExloaderLauncher/ExloaderLauncher/releases/tag/ExLoader).
+1. Так же вы можете загрузить последнюю версию ExLoader с [официального сайта](https://exloader.xyz/).
 2. Запустите установочный файл и следуйте инструкциям.
 3. Откройте ExLoader, выберите чит и нажмите "Запустить".
 
@@ -36,7 +36,7 @@ ExLoader распространяется бесплатно. Разработч
 Соглашение https://exloader.net/end_user_license_agreement/#/
 
 ## 💬 Контакты
-- 🌐 [Официальный сайт на GITHUB](https://github.com/ExloaderLauncher/ExloaderLauncher/tree/main)
+- 🌐 [Официальный сайт](https://exloader.xyz/)
 - 📢 [Дискорд](https://discord.gg/exloader)
 - 📨 Поддержка: support@exloader.net
 
